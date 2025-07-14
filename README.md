@@ -23,4 +23,4 @@ Finally, all the design codes, testbench files, and waveform screenshots have be
 
 
 OUTPUT OF THE TASK 
-<img width="1859" height="779" alt="Image" src="https://github.com/user-attachments/assets/900b28dc-7ef1-490d-a2e9-17bc844105ca" />
+![Image](https://github.com/user-attachments/assets/a6ea24ff-040c-4c03-8daa-e5d7a651fe76)
